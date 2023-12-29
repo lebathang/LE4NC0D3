@@ -14,4 +14,8 @@
 * Hoàn thành code ngày: 12/12/2023.
 * Công bố Version 1.0: 12/12/2023 (Hoàn thành sơ bộ).
 * Điểm nhận được: ?
-* Thiếu sót: Chưa kết nối database, các nút nhấn chưa hoạt động đúng yêu cầu,.........
+* Thiếu sót: Chưa kết nối database, các nút nhấn chưa hoạt động đúng yêu cầu,.......
+
+
+## Download
+Báo cáo đồ án cơ sở 2: [Link Download](https://ndb6-my.sharepoint.com/:w:/g/personal/thang_ndb6_onmicrosoft_com/EaWj3dG6m5dNv1xnyjWdrocBz5osh6tjDQAW59S95pbX_w?e=ChSn3l)
