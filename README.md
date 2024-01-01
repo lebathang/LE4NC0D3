@@ -1,14 +1,14 @@
 # Mục lục
   1. [Giới thiệu](https://github.com/lebathang/LE4NC0D3/tree/main?tab=readme-ov-file#gi%E1%BB%9Bi-thi%E1%BB%87u)
-  2. [Cấu trúc mô hình của chương trình]()
-  3. [Giao diện của website]()
-  4. [Các chức năng của website]()
-  - [Trang Lessions]()
-  - [Trang Sign In]()
-  - [Trang Sign Up]()
-  - [Trang About Us]()
+  2. [Cấu trúc mô hình của chương trình](https://github.com/lebathang/LE4NC0D3?tab=readme-ov-file#c%E1%BA%A5u-tr%C3%BAc-m%C3%B4-h%C3%ACnh-c%E1%BB%A7a-website)
+  3. [Giao diện của website](https://github.com/lebathang/LE4NC0D3?tab=readme-ov-file#giao-di%E1%BB%87n-c%E1%BB%A7a-website)
+  4. [Các chức năng của website](https://github.com/lebathang/LE4NC0D3?tab=readme-ov-file#c%C3%A1c-ch%E1%BB%A9c-n%C4%83ng-c%E1%BB%A7a-website)
+      - [Trang Lessions](https://github.com/lebathang/LE4NC0D3?tab=readme-ov-file#trang-lessions)
+      - [Trang Sign In](https://github.com/lebathang/LE4NC0D3?tab=readme-ov-file#trang-sign-in)
+      - [Trang Sign Up](https://github.com/lebathang/LE4NC0D3?tab=readme-ov-file#trang-sign-up)
+      - [Trang About Us](https://github.com/lebathang/LE4NC0D3?tab=readme-ov-file#trang-about-us)
   5. [Download](https://github.com/lebathang/LE4NC0D3?tab=readme-ov-file#download)
-  6. [License]()
+  6. [License](https://github.com/lebathang/LE4NC0D3?tab=readme-ov-file#license)
 ## Giới thiệu
 ### Đây là source code của đồ án cơ sở 2  (trường Vietnam-Korea University).
 
