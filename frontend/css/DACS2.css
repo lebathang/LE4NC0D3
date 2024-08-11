@@ -162,7 +162,7 @@ nav .menu {
 }
 .center button {
   margin-top: 20px;
-  background: none;
+  background: rgb(144, 0, 255);
   border: none;
 }
 .center .btn {
@@ -171,14 +171,14 @@ nav .menu {
   border: 1px solid;
   padding: 10px 30px;
   margin: 0 5px;
-  color: #fff;
+  color: white;
   font-size: 18px;
   font-weight: 600;
   transition: all 0.3s ease;
 }
 .center .btn:hover {
   background-color: rgb(144, 0, 255);
-  color: #fff;
+  color: #e91414;
 }
 
 .sologan {
@@ -189,8 +189,7 @@ nav .menu {
   margin-left: 200px;
   margin-right: 200px;
 }
-.title {
-}
+
 .spacer {
   padding: 5px 0px;
 }
@@ -214,8 +213,6 @@ h3 {
 }
 
 /* code muon 1 nua */
-element.style {
-}
 .service-item * {
   transition: 0.5s;
 }
@@ -468,8 +465,6 @@ i {
   height: 100%;
 }
 
-element.style {
-}
 .map-ui {
   height: 100%;
 }
@@ -565,7 +560,7 @@ div {
 .btn-lession {
   display: list-item;
   text-align: center;
-  width: 900px;
+  /* width: 900px; */
   /* height: 100px; */
   margin: 0 auto;
   /* border: 1px solid #a934db; */
@@ -612,9 +607,9 @@ div {
 .map-ui .btn {
   min-height: 80px;
 }
-.btn {
+/* .btn {
   white-space: pre-line;
-}
+} */
 @media (min-width: 700px) {
   .link-btn {
     font-size: 1.1rem;
@@ -643,14 +638,14 @@ div {
   border-radius: 6px;
 }
 .btn,
-button,
+.button,
 input[type="submit"] {
   background-color: var(--quaternary-background);
   border: 3px solid var(--secondary-color);
   border-radius: 0;
-  color: var(--secondary-color);
+  /* color: var(--secondary-color); */
   text-decoration: none;
-  white-space: pre-line;
+  /* white-space: pre-line; */
 }
 .button {
   justify-content: space-between;
@@ -659,6 +654,10 @@ input[type="submit"] {
   border: 3px solid rgb(144, 0, 255);
   text-decoration: none;
   align-items: center;
+  /* font-size: 1rem; */
+  justify-content: space-between;
+  align-items: center;
+  display: -webkit-box;
 }
 .button:hover {
   background-color: rgb(144, 0, 255);
@@ -922,4 +921,182 @@ p {
   font-size: 1.0625rem;
   line-height: 1.18;
   color: #181818;
+}
+.intro-description p, .intro-description strong {
+  font-size: 1.17rem;
+}
+#learn-app-wrapper, #learn-app-wrapper .desktop-layout, #learn-app-wrapper .reflex-container.vertical {
+  height: 100%;
+}
+.alert-info {
+  background-color: #d9edf7;
+  border-color: #bce8f1;
+  color: #31708f;
+}
+.alert {
+  border: 1px solid transparent;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  padding: 15px;
+}
+.text-center {
+  text-align: center !important;
+}
+
+/* .block-ui {
+  color: var(--secondary-color);
+  height: 100%;
+  list-style: none;
+  padding: 0;
+}
+
+.block-ui div.block {
+  background: var(--primary-background);
+}
+.block-grid {
+  border-bottom: 4px solid var(--secondary-background);
+}
+.block {
+  display: block;
+}
+.block-grid-title {
+  margin: 0;
+  overflow-wrap: break-word;
+}
+.block-grid .block-header {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 18px 15px;
+  text-align: left;
+  width: 100%;
+}
+.block-header {
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.block-header-button-text, .course-title, .map-title, .title-wrapper {
+  gap: 10px;
+}
+.block-grid .block-header .block-link, .block-header-button-text {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+.block-header-button-text {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: space-between;
+}
+.map-title {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: transparent;
+  border: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 18px 0;
+  text-align: start;
+  width: 100%;
+} */
+
+.QuizQuestionCard_quizCard__9T_0J {
+  width: 100%;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+
+.QuizQuestionCard_quizCard__header__8owjs {
+  display: flex;
+  align-items: center;
+  background: #252b2e;
+  height: 38px;
+  padding-left: 20px;
+  border-radius: 8px 8px 0 0;
+  margin-bottom: 0;
+}
+.QuizQuestionCard_quizCard__header__questionNumber__GffEN {
+  font-family: var(--font-secondary);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.17;
+  letter-spacing: normal;
+  font-style: normal;
+  color: white;
+}
+.QuizQuestionCard_quizCard__optionsList__4pILJ {
+  list-style: none;
+  padding: 0;
+  margin-top: 0;
+  color: var(--color-black);
+}
+.QuizQuestionCard_quizCard__quizQuestionTextContainer__CzNWr {
+  width: 100%;
+  padding: 27px 21px 0 20px;
+}
+.QuizQuestionCard_quizCard__quizQuestionTextContainer__question__tv5de {
+  margin: 0 0 10px;
+  color: var(--color-black);
+}
+.QuizQuestionCard_quizCard__optionsList__optionItem__6OtkL {
+  width: 100%;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 9px 0;
+  cursor: pointer;
+}
+ul, ol {
+  padding: 0;
+  list-style-type: none;
+  margin: var(--nextui-space-sm) var(--nextui-space-sm) var(--nextui-space-sm) var(--nextui-space-lg);
+  color: var(--nextui-colors-foreground);
+}
+li {
+  font-size: inherit;
+  line-height: 1.5 !important;
+  margin: 0;
+  text-align: -webkit-match-parent;
+  unicode-bidi: isolate;
+}
+.QuizQuestionCard_quizCard__optionsList__optionItem__optionInput__zN_bY {
+  display: inline-block;
+  border-radius: 2px;
+  border: 1px solid #9f9f9f;
+  border-radius: 0;
+  width: 19px;
+  min-width: 19px;
+  min-height: 19px;
+  height: 19px;
+  margin-right: 15px;
+  margin-left: 14px;
+}
+.QuizQuestionCard_quizCard__optionsList__optionItem__optionLabel__ZJEuI {
+  display: inline-block;
+  height: auto !important;
 }

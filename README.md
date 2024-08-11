@@ -18,8 +18,11 @@
 * Cơ sở dữ liệu: MySQL
 * Hoàn thành code ngày: 12/12/2023.
 * Công bố Version 1.0: 12/12/2023 (Hoàn thành sơ bộ).
-* Điểm nhận được: ???
-* Thiếu sót: Chưa kết nối database, các chức năng chưa hoạt động đúng yêu cầu,.......
+* Update Version 2.0: 11/8/2024
+* Update logs: Thêm Course, fix css, thêm lession,....
+* Điểm nhận được: 6
+* Thiếu sót: Chưa kết nối database, các nút nhấn chưa hoạt động đúng yêu cầu, thiếu pagination cho các câu hỏi.......
+
 
 ## Cấu trúc mô hình của Website
 ![usecase](https://raw.githubusercontent.com/lebathang/LE4NC0D3/main/image/usecase.png)
